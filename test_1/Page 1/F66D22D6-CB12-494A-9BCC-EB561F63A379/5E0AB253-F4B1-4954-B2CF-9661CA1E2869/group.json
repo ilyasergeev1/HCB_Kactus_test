@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "5E0AB253-F4B1-4954-B2CF-9661CA1E2869",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 201,
+    "width": 180,
+    "x": 422,
+    "y": 716
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63ACE932-CB17-430D-8A7B-C59E1414EB75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "766E7861-1BF5-493C-BB2A-A844CB811ED6"
+    },
+    {
+      "class": "bitmap",
+      "id": "C00C9724-F3E0-4E78-8F7E-604DA636C9C7"
+    },
+    {
+      "class": "bitmap",
+      "id": "55DD0C70-99F2-43C0-B635-04DEE4F3F1C7"
+    },
+    {
+      "class": "bitmap",
+      "id": "73CFF0B3-9E89-4BD6-AA99-ED48582DA612"
+    },
+    {
+      "class": "bitmap",
+      "id": "89D48320-5168-4EF6-947F-DB18493242FA"
+    }
+  ],
+  "name": "GettyImages-491802930",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "0B3B119C-BB78-4D05-99DA-3B635D924521",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 680,
+    "width": 683,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C84A34F-F14F-48EE-B783-605C5663A318"
+    },
+    {
+      "class": "bitmap",
+      "id": "55C78CDB-389B-4DFD-B056-802FF2F1B178"
+    },
+    {
+      "class": "bitmap",
+      "id": "E680E073-1059-4FD9-9F50-7031536AEF40"
+    }
+  ],
+  "name": "Crystal-Cartier-lifestyle-malibu-creek-Alysse-0147",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F33F278D-0FE3-4F5C-9990-BD6466E92303",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36.12912429486116,
+    "width": 44.09770333424642,
+    "x": 0.2809867254783058,
+    "y": 0.07862045795667917
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1211F131-8E18-4531-B314-5475CF907CF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB448FE6-4F33-40B9-AFA1-FC987A1EBF1A"
+    },
+    {
+      "class": "shapePath",
+      "id": "906ADA42-A363-4C04-A9F1-E486E22B956F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4621B57E-27CD-425E-A321-06D7E4ABB6BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0B55469-2D9A-4EC6-8C5A-27CD7141AFD6"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176471,
+          "green": 0.5686274509803921,
+          "red": 0.9647058823529412
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "55DD0C70-99F2-43C0-B635-04DEE4F3F1C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 242.4525917950556,
+    "width": 361.1117426029887,
+    "x": -36.92429133101453,
+    "y": -51.37886858717405
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2bd93f7e622861ff5873d477a58334316d520be7",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Снимок экрана 2017-07-27 в 11.13.45",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 242.4526,
+            "enabled": 1,
+            "modelID": "constraint_cb396f20-66a2-4a15-b44e-a7d893e9abe3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 361.1118
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2953b21f-f738-4896-aa0c-265edbc93b79",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "05277155-7575-40F5-8AE7-8C803B5C26BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 179,
+    "width": 704,
+    "x": 160,
+    "y": 2290
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B3F77C80-8E59-4273-9C92-A49CB75410AC"
+    },
+    {
+      "class": "text",
+      "id": "73F8D819-8639-4738-9F33-22C60C53619B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D02A8443-FEDC-464C-A1F3-B1F899C1FECA"
+    },
+    {
+      "class": "text",
+      "id": "57DCD2B2-AA60-45E8-9E41-1B057384759C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9DE108B-B113-42B3-83C0-F6A55311BA19"
+    },
+    {
+      "class": "text",
+      "id": "4A042642-89D8-4951-ACD1-A41C6013A91F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9EFEDED-771F-43D8-8DAD-1DCC5F7F7217"
+    },
+    {
+      "class": "text",
+      "id": "88163FBA-FC12-4588-B9FC-E35BBD6D3C33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C50B26F3-FCAA-4268-AB3E-C32B53FCE9EC"
+    },
+    {
+      "class": "text",
+      "id": "EE61846C-A8B7-4A5B-9F21-92A5E02093D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "993AC152-3A66-44E7-AF34-8C3C0036B06C"
+    },
+    {
+      "class": "text",
+      "id": "202E10C3-0735-4026-B8A9-069F0AD2A44D"
+    }
+  ],
+  "name": "Group 19",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

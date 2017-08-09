@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGY2RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNTs+QUVJUVJTVFVZXV9VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANvEBAEGgRABDUENAQ4BEIAIAQ9BDAEOwQ4BEcEPQRLBDwEONMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAmMC4xNjg2Mjc0NTEgMC4yNDcwNTg4MjM1IDAuMzkyMTU2ODYyNwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHTNgo3ODk6XE5TVGV4dEJsb2Nrc1pOU1RhYlN0b3BzgAyADoAA0hIKPD2ggA3SLC0/QFdOU0FycmF5oj8x0iwtQkNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNCRDFfEBBOU1BhcmFncmFwaFN0eWxl0gpGR0hfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKSk1QoktMgBGAEqJOT4ATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A8AAAAAAAAXU9wZW5TYW5zLUJvbGTSLC1WV18QE05TTXV0YWJsZURpY3Rpb25hcnmjVlgxXE5TRGljdGlvbmFyedIsLVpbXxAQTlNGb250RGVzY3JpcHRvcqJcMV8QEE5TRm9udERlc2NyaXB0b3LSLC1YXqJYMdIsLWBhXxASTlNBdHRyaWJ1dGVkU3RyaW5nomIxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WVmVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAKYArQC1AMAAxADGAMgAygDOANAA0gDUANYA3gDxARMBHAEiAS8BRAFtAW8BcQFzAXgBfQF/AYEBhgGRAZoBpwGqAbcBwAHFAc0B0AHXAeQB7wHxAfMB9QH6AfsB/QICAgoCDQISAiwCMAJDAkgCZQJnAmkCcAJzAnUCdwJ6AnwCfgKAApYCrAK1AsMCyALeAuIC7wL0AwcDCgMdAyIDJQMqAz8DQgNXA2kDbANxAAAAAAAAAgEAAAAAAAAAZwAAAAAAAAAAAAAAAAAAA3M="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9C993951-CD7A-4A54-9E65-9D6BD9E1E7B9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 293,
+    "x": 366,
+    "y": 518
+  },
+  "glyphBounds": "{{2, 10}, {289, 27}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Кредит наличными",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BEBA9039-505F-499A-B005-D2BE682E5878"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}
